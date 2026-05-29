@@ -83,3 +83,5 @@ about contributing such as coding styles.
 ## Contact
 
 See [our contact page](https://www.mercurylang.org/contact.html).
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
